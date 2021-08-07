@@ -1,0 +1,9 @@
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\bin\Debug\netcoreapp3.1\EasySave.LibraryV3.deps.json
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\bin\Debug\netcoreapp3.1\EasySave.LibraryV3.dll
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\bin\Debug\netcoreapp3.1\EasySave.LibraryV3.pdb
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\obj\Debug\netcoreapp3.1\EasySave.LibraryV3.csprojAssemblyReference.cache
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\obj\Debug\netcoreapp3.1\EasySave.LibraryV3.AssemblyInfoInputs.cache
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\obj\Debug\netcoreapp3.1\EasySave.LibraryV3.AssemblyInfo.cs
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\obj\Debug\netcoreapp3.1\EasySave.LibraryV3.csproj.CoreCompileInputs.cache
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\obj\Debug\netcoreapp3.1\EasySave.LibraryV3.dll
+C:\Users\Théo\Desktop\easy save\EasySave.LibraryV3\obj\Debug\netcoreapp3.1\EasySave.LibraryV3.pdb
